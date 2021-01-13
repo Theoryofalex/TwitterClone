@@ -1,5 +1,7 @@
 <template>
-  new Twitter
+  <div class="home">
+    <div class="text-white">Home</div>
+  </div>
 </template>
 
 <script>
