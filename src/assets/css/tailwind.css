@@ -8,5 +8,5 @@ body {
 }
 
 main {
-    max-height: calc(100vh -139px);
+    max-height: calc(100vh - 129px);
 }
