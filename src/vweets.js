@@ -2,7 +2,7 @@ export default [
 	{
 		_id: "0",
 		author: {
-			profile_img_url: "https://pbs.twimg.com/profile_images/1338824835078778880/3rFQF35B_400x400.jpg",
+			profile_img_url: "https://pbs.twimg.com/profile_images/1347118460434833409/TdUovf7y_400x400.jpg",
 			display_name: "Tyler Potts",
 			username: "@Tyler_Potts_"
 		},
@@ -99,9 +99,9 @@ export default [
 	{
 		_id: "3",
 		author: {
-			profile_img_url: "https://pbs.twimg.com/profile_images/1338824835078778880/3rFQF35B_400x400.jpg",
+			profile_img_url: "https://pbs.twimg.com/profile_images/1295975423654977537/dHw9JcrK_400x400.jpg",
 			display_name: "Alex Gomez",
-			username: "@Alex_Gomez_"
+			username: "@Alex_Gomez"
 		},
 		body: `
 					If I build a TWITTER clone for my channel, what tech should I use?
